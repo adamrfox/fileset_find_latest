@@ -43,7 +43,7 @@ location, path and the date of the last time each was backed up (using the timez
 there bceause I specified the -v flag But let's assume 
 you only wanted to search ntap94, you could do this:
 <p>
-</pre>$ ./fileset_find_latest.py -v -H ntap94.rangers.lab 172.21.10.81 new_file
+<pre>$ ./fileset_find_latest.py -v -H ntap94.rangers.lab 172.21.10.81 new_file
 User: admin
 Password: 
 Host: \\ntap94.rangers.lab\app_test
