@@ -43,7 +43,7 @@ location, path and the date of the last time each was backed up (using the timez
 there bceause I specified the -v flag But let's assume 
 you only wanted to search ntap94, you could do this:
 <p>
-</pre>`$ ./fileset_find_latest.py -v -H ntap94.rangers.lab 172.21.10.81 new_file
+</pre>$ ./fileset_find_latest.py -v -H ntap94.rangers.lab 172.21.10.81 new_file
 User: admin
 Password: 
 Host: \\ntap94.rangers.lab\app_test
@@ -51,7 +51,7 @@ Fileset: smb_all
 Path: \new_file
 Backup date: 2019-03-29 10:53:34-07:00
 Snapshot ID: 53250340-cbc8-4477-9f93-d96b1a952196
-========================================`</pre>
+========================================</pre>
 By specifying the host on the commande line with -H only the results from the ntap94 host are displayed.
 
 
