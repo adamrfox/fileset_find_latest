@@ -55,5 +55,4 @@ Snapshot ID: 53250340-cbc8-4477-9f93-d96b1a952196
 By specifying the host on the commande line with -H only the results from the ntap94 host are displayed.
 <p>
 Depenencies:<p>
-This script uses very standard Python libraries except for the <a href="
-https://github.com/rubrikinc/rubrik-sdk-for-python">Rubrik Python SDK</a>
+This script uses very standard Python libraries except for the Rubrik Python SDK (https://github.com/rubrikinc/rubrik-sdk-for-python)
